@@ -1,5 +1,6 @@
 INF WOMAN 
 Manoella Florisbal de Oliveira 
+
 Eduarda Post Michels 
 
 Nesse projeto temos um jogo que tem a opção para jogar solo, com o botão start, e o multiplayer, com o botão multiplayer.
